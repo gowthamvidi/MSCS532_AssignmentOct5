@@ -8,10 +8,10 @@ This repository contains two core Python implementations and analyses:
 ---
 
 ## Project Structure
-├── rqsort.py # Randomized Quicksort implementation
-├── Understanding_Algorithm_Efficiency_and_Scalability
-├── hash.py # Hash Table implementation with chaining
-└── README.md # Project documentation
+├── rqsort.py # Randomized Quicksort implementation<br>
+├── Understanding_Algorithm_Efficiency_and_Scalability<br>
+├── hash.py # Hash Table implementation with chaining<br>
+└── README.md # Project documentation<br>
 
 ## How to run
 
