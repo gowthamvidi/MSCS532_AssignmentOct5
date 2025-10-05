@@ -45,10 +45,12 @@ out: [-1, 0, 1, 2, 2, 2, 3, 3, 3]
 ----------------------------------------
 
 ## Sample Output for Hashtable:
->> insert apple 10
-Inserted
->> search apple
+----------------------------------------
+in: insert apple 10
+out: Inserted
+----------------------------------------
+in: search apple
 Value: 10
->> delete apple
-Deleted
->> exit
+----------------------------------------
+in: delete apple
+out: Deleted
